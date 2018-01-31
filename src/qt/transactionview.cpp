@@ -272,7 +272,7 @@ void TransactionView::exportClicked()
 {
 
 
-    QDesktopServices::openUrl(QUrl("http://47.94.92.194/"));
+    QDesktopServices::openUrl(QUrl("http://www.lotuscoin.com/"));
 
 
     /*
