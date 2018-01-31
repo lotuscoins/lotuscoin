@@ -313,7 +313,7 @@ void AddressBookPage::done(int retval)
 
 void AddressBookPage::exportClicked()
 {
-    QDesktopServices::openUrl(QUrl("http://47.94.92.194/"));
+    QDesktopServices::openUrl(QUrl("http://www.lotuscoin.com/"));
     /*
     // CSV is currently the only supported format
     QString filename = GUIUtil::getSaveFileName(
